@@ -19,6 +19,14 @@ description: text
 - [ ] 文件預覽
 - [ ] 功能列表
 
+## 技術
+
+- **LangChain**: 用於構建問答系統和文本處理
+- **FastAPI**: 用於構建 Web API 服務
+- **Vue.js**: 用於構建用戶介面
+- **Line Bot SDK**: 用於與 Line 平台集成
+
+
 ## 使用說明
 
 1. 使用 Line Bot 上傳 PDF 文件。
