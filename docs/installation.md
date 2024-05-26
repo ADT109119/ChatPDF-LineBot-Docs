@@ -1,24 +1,26 @@
 ---
-title: 安裝步驟
+title: 安裝&部署
 lang: zh-TW
 description: text
 ---
 
-# 安裝步驟
+# 安裝&部署
 > 使用 Docker 的人可直接跳至第 5 步
 
 ## 1. 複製存儲庫:
-```
+```sh
 git clone https://github.com/your-repo/line-pdf-bot.git
 ```
 
 ## 2. 安裝伺服器依賴:
-```
+```sh
 cd ChatPDF-LineBot
 pip install -r requirements.txt
 ```
+
 可考慮在虛擬環境中執行，這裡提供 Python 內建的虛擬環境指令:
-```
+
+```sh
 cd ChatPDF-LineBot
 python -m venv .\venv
 .\venv\Scripts\activate
@@ -26,13 +28,13 @@ pip install -r requirements.txt
 ```
 
 ## 3. 安裝 Node 依賴:
-```
+```sh
 cd ChatPDF-LineBot/View
 npn install
 ```
 
 ## 4. Build 前端網頁
-```
+```sh
 cd View
 npm install
 npm run build
@@ -66,7 +68,7 @@ npm run build
 
 ### 使用 Docker
 
-```
+```sh
 docker run -d \
 --name chatpdf-linebot \
 -p 8000:8000 \
@@ -86,7 +88,8 @@ adt109119/chatpdf-linebot
 若 1. ~ 4. 步的安裝接無問題，僅需直接執行一以下指令便可開啟伺服器
 
 預設使用 `PORT` `8000`
-```
+
+```sh
 python .\main.py
 ```
 
