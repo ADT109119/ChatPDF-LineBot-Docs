@@ -5,7 +5,9 @@ description: text
 ---
 
 # 安裝&部署
-> 使用 Docker 的人可直接跳至第 5 步
+::: tip
+使用 Docker 的人可直接跳至第 5 步
+:::
 
 ## 1. 複製存儲庫:
 ```sh

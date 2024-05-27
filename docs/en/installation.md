@@ -5,7 +5,9 @@ description: text
 ---
 
 # Installation & Deployment
-> If using Docker, you can skip directly to step 5
+::: tip
+If using Docker, you can skip directly to step 5
+:::
 
 ## 1. Clone the repository:
 ```sh
