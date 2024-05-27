@@ -4,7 +4,7 @@ lang: en-US
 description: text
 ---
 
-# Line PDF Bot Documentation
+# ChatPDF-LineBot Documentation
 
 This is a Line Bot built using LangChain, FastAPI, and Vue. It allows users to upload PDF documents via a Line LIFF page and answers related questions.
 
