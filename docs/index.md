@@ -4,7 +4,7 @@ lang: zh-TW
 description: text
 ---
 
-# Line PDF Bot Documentation
+# ChatPDF-LineBot Documentation
 
 這是一個使用 LangChain、FastAPI 和 Vue 構建的 Line Bot，可以透過 Line Liff 網頁上傳 PDF 文件並回答相關問題。
 
