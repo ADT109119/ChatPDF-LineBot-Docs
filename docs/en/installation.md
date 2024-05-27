@@ -64,7 +64,7 @@ You can set environment variables directly on the server or Docker.
 
 If running on a local machine, copy the `.env.example` file, rename it to `.env`, and set the API keys, models, and other parameters.
 
-See `Environment Variables List` for details `*`
+See [Environment Variables List](./configuration.html) for details
 
 ## 8. Run the server
 

@@ -64,7 +64,7 @@ npm run build
 
 自己電腦上跑的話可複製 `.env.example` 文件，並改名為 `.env`，接著設定 API Key、模型等參數。
 
-詳見 `環境變數列表` `*` 
+詳見 [環境變數列表](./configuration.html)
 
 ## 8. 運行伺服器
 
