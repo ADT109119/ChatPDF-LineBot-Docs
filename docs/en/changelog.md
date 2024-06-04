@@ -9,6 +9,7 @@ lang: en
 
 * Adjusted the default version in Settings
 * Fixed the progress bar display error in the information panel
+* Removed the click link from the image at the top of the help interface
 
 ## Ver 1.2
 
