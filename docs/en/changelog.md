@@ -4,6 +4,12 @@ lang: en
 ---
 # Changelog
 
+## Ver 1.3
+### Bug Fix
+
+* Adjusted the default version in Settings
+* Fixed the progress bar display error in the information panel
+
 ## Ver 1.2
 
 * Added information menu and help menu

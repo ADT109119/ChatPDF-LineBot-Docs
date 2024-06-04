@@ -42,6 +42,7 @@ export default defineUserConfig({
               '/installation.md',
               '/configuration.md',
               '/contact.md',
+              '/changelog.md',
             ],
           },
         ]
@@ -58,6 +59,7 @@ export default defineUserConfig({
               '/en/installation.md',
               '/en/configuration.md',
               '/en/contact.md',
+              '/changelog.md',
             ],
           },
         ]
