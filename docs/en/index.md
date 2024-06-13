@@ -7,6 +7,11 @@ lang: en-US
 
 This is a Line Bot built using LangChain, FastAPI, and Vue. It allows users to upload PDF documents via a Line LIFF page and answers related questions.
 
+## Demo LineBot Link(Reset database when every update)
+
+![image](https://github.com/ADT109119/ChatPDF-LineBot/assets/106337749/c1860b26-3371-4b2d-935f-cc4823286092)  
+https://lin.ee/QajGJOY
+
 ## Examples
 
 | ![Screenshot_20240514-132200](https://github.com/ADT109119/ChatPDF-LineBot/assets/106337749/996fea6c-3ae8-4d9a-baff-7ada3860b4f9) | ![Screenshot_20240514-131836](https://github.com/ADT109119/ChatPDF-LineBot/assets/106337749/0cb06999-e8c3-4779-8fe2-c6f87a7a370c) |

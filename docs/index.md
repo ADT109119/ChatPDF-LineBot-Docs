@@ -7,6 +7,10 @@ lang: zh-TW
 
 這是一個使用 LangChain、FastAPI 和 Vue 構建的 Line Bot，可以透過 Line Liff 網頁上傳 PDF 文件並回答相關問題。
 
+## LineBot Demo 連結(每次更新時刪檔)
+
+![image](https://github.com/ADT109119/ChatPDF-LineBot/assets/106337749/c1860b26-3371-4b2d-935f-cc4823286092)  
+https://lin.ee/QajGJOY
 
 ## 範例
 
