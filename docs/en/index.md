@@ -10,7 +10,7 @@ This is a Line Bot built using LangChain, FastAPI, and Vue. It allows users to u
 ## Demo LineBot Link(Reset database when every update)
 
 ![image](https://github.com/ADT109119/ChatPDF-LineBot/assets/106337749/c1860b26-3371-4b2d-935f-cc4823286092)  
-https://lin.ee/QajGJOY
+[https://lin.ee/QajGJOY](https://lin.ee/QajGJOY)
 
 ## Examples
 
