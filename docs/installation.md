@@ -1,7 +1,6 @@
 ---
 title: 安裝&部署
 lang: zh-TW
-description: text
 ---
 
 # 安裝&部署

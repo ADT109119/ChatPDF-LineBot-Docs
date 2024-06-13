@@ -1,7 +1,6 @@
 ---
 title: 功能和使用說明
 lang: zh-TW
-description: text
 ---
 
 # 功能和使用說明

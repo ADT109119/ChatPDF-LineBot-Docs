@@ -1,7 +1,6 @@
 ---
 title: Features and User Guide
 lang: en-US
-description: text
 ---
 
 # Features and User Guide

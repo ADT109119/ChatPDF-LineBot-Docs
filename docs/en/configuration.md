@@ -1,7 +1,6 @@
 ---
 title: Environment Variables and Settings
 lang: en-US
-description: text
 ---
 
 # Environment Variables and Settings

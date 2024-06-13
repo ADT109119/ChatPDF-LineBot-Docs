@@ -1,7 +1,6 @@
 ---
 title: 聯繫資訊
 lang: zh-TW
-description: text
 ---
 
 # 聯繫資訊

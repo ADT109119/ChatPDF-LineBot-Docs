@@ -1,7 +1,6 @@
 ---
 title: 介紹
 lang: zh-TW
-description: text
 ---
 
 # ChatPDF-LineBot Documentation

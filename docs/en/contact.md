@@ -1,7 +1,6 @@
 ---
 title: Contact Information
 lang: en-US
-description: text
 ---
 
 # Contact Information

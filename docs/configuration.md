@@ -1,7 +1,6 @@
 ---
 title: 環境變數和設定
 lang: zh-TW
-description: text
 ---
 # 環境變數和設定
 

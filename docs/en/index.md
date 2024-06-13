@@ -1,7 +1,6 @@
 ---
 title: Introduction
 lang: en-US
-description: text
 ---
 
 # ChatPDF-LineBot Documentation

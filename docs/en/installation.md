@@ -1,7 +1,6 @@
 ---
 title: Installation & Deployment
 lang: en-US
-description: text
 ---
 
 # Installation & Deployment
