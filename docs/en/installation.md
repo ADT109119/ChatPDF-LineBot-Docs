@@ -70,6 +70,8 @@ See [Environment Variables List](./configuration.html) for details
 
 ### Using Docker
 
+![Docker Image Size (tag)](https://img.shields.io/docker/image-size/adt109119/chatpdf-linebot/latest)
+
 ```sh
 docker run -d \
 --name chatpdf-linebot \
