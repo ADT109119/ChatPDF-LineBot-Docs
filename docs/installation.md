@@ -5,7 +5,7 @@ lang: zh-TW
 
 # 安裝&部署
 ::: tip
-使用 Docker 的人可直接跳至第 5 步
+使用 [Docker](#使用-docker) 或是 [Hugging Face Space](#使用-hugging-face-space-一鍵部署) 部署的人可直接跳至第 5 步
 :::
 
 ## 1. 複製存儲庫:
@@ -95,6 +95,20 @@ adt109119/chatpdf-linebot
 ```sh
 python .\main.py
 ```
+
+### 使用 Hugging Face Space 一鍵部署
+
+本專案可以快速部署在 Hugging Face Space 上
+
+支援 CloudFlare Tunnel 自訂網址
+
+[![](https://huggingface.co/datasets/huggingface/badges/resolve/main/deploy-on-spaces-lg-dark.svg)](https://huggingface.co/spaces/ADT109119/ChatPDF-LineBot?duplicate=true)
+
+::: warning 注意
+若無購買 Hugging Face 的永久儲存空間
+
+每次更新或更改資料時檔案都會遺失
+:::
 
 ## 9. 回到 LINE 設定
 * Line Bot 設定

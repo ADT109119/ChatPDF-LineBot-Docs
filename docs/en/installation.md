@@ -5,7 +5,7 @@ lang: en-US
 
 # Installation & Deployment
 ::: tip
-If using Docker, you can skip directly to step 5
+If using [Docker](#using-docker) or [Hugging Face Space](#deploy-with-hugging-face-space), you can skip directly to step 5
 :::
 
 ## 1. Clone the repository:
@@ -95,6 +95,20 @@ The default `PORT` is `8000`
 ```sh
 python .\main.py
 ```
+
+### Deploy with Hugging Face Space
+
+This project can be quickly deployed on Hugging Face Space.
+
+Supports custom URLs with CloudFlare Tunnel.
+
+[![](https://huggingface.co/datasets/huggingface/badges/resolve/main/deploy-on-spaces-lg-dark.svg)](https://huggingface.co/spaces/ADT109119/ChatPDF-LineBot?duplicate=true)
+
+::: warning
+If you haven't purchased permanent storage from Hugging Face,
+
+files will be lost every time you update or change environment variable.
+:::
 
 ## 9. Finalize LINE settings
 * Line Bot settings
