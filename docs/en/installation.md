@@ -10,7 +10,7 @@ If using [Docker](#using-docker) or [Hugging Face Space](#deploy-with-hugging-fa
 
 ## 1. Clone the repository:
 ```sh
-git clone https://github.com/your-repo/line-pdf-bot.git
+git clone https://github.com/ADT109119/ChatPDF-LineBot-Docs.git
 ```
 
 ## 2. Install server dependencies:

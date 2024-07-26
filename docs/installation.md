@@ -10,7 +10,7 @@ lang: zh-TW
 
 ## 1. 複製存儲庫:
 ```sh
-git clone https://github.com/your-repo/line-pdf-bot.git
+git clone https://github.com/ADT109119/ChatPDF-LineBot-Docs.git
 ```
 
 ## 2. 安裝伺服器依賴:
